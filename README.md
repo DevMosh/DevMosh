@@ -7,6 +7,9 @@ description devmosh
  <a href="https://instagram.com/amir_prime_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" align="center" alt="Instagram"/>
   </a>
+  <a href="https://t.me/alex_rumin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 
 <h1 align="center">Hey there 👋</h1>
 
