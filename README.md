@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Amir from Russia<br><br>- I’m working as Backend devoloper and an aspiring Frontend developer</p>
+<p align="left">- I work as a Backend developer and quite a bit as a Frontend developer.</p>
 
 ###
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
